@@ -1,0 +1,22 @@
+{
+  "name": "products-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "products-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathewgrabau/products-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathewgrabau/products-server/issues"
+  },
+  "homepage": "https://github.com/mathewgrabau/products-server#readme",
+  "dependencies": {
+    "restify": "^4.3.2"
+  }
+}
